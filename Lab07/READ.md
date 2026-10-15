@@ -1,0 +1,14 @@
+# LAB 07 - TIỆN ÍCH GOOGLE FORM
+
+## Bài 1: Tiện ích Google Form
+
+- **a) Google Form Nhập thông tin sinh viên khóa 52:**
+  [https://forms.gle/h2wV9nvnm6fV23ja8](https://forms.gle/h2wV9nvnm6fV23ja8)
+
+- **b) Google Form Đăng ký tham quan Công ty TMA:**
+  [https://forms.gle/z7uRZuWngZZDSuNe9](https://forms.gle/z7uRZuWngZZDSuNe9)
+
+
+## 2. Trang thông tin sinh viên (Web)
+- **Link truy cập trang web:**  
+  [https://incomparable-malabi-18e79d.netlify.app](https://incomparable-malabi-18e79d.netlify.app)

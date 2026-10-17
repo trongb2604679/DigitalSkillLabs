@@ -9,6 +9,8 @@
   [https://forms.gle/z7uRZuWngZZDSuNe9](https://forms.gle/z7uRZuWngZZDSuNe9)
 
 
-## 2. Trang thông tin sinh viên (Web)
+## Bài 2: Trang thông tin sinh viên (Web)
 - **Link truy cập trang web:**  
-  [https://incomparable-malabi-18e79d.netlify.app](https://incomparable-malabi-18e79d.netlify.app)
+  [https://incomparable-malabi-18e79d.netlify.app][def]
+
+[def]: https://incomparable-malabi-18e79d.netlify.app

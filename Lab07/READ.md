@@ -1,5 +1,3 @@
-# LAB 07 - TIỆN ÍCH GOOGLE FORM
-
 ## Bài 1: Tiện ích Google Form
 
 - **a) Google Form Nhập thông tin sinh viên khóa 52:**
